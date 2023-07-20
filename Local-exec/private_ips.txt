@@ -1,0 +1,1 @@
+/subscriptions/11e07d93-b7de-44c1-b006-7218b5fb3180/resourceGroups/terraform_rg/providers/Microsoft.Network/publicIPAddresses/mupub1 
